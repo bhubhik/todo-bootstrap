@@ -1,3 +1,10 @@
 h1 {
-  color: blanchedalmond;
+  color: rgb(167, 243, 45);
+}
+input {
+  width: 100%;
+}
+li {
+  font-size: 22px;
+  cursor: pointer;
 }
